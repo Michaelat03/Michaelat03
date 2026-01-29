@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi, I'm Michael Toth👋
 
 I'm an aspiring tech professional with a background in biology and a growing focus on IT, cybersecurity, and systems. I enjoy hands-on learning, automation, and understanding how systems actually work under the hood.
